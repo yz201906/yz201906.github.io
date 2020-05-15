@@ -15,7 +15,7 @@ Bioinformatics/cuttingedge biotechnology
 
 #### Hobbies:
 Skiing  
-Table tennis
+Table tennis  
 PC building
 
 ### Contact me
