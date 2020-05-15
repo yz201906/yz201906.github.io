@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a postdoc researcher at Duke University currently pursuing Data Science foundations certificate through NCSU. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Research interest:
+RNA regulation  
+RNA modifications  
+Bioinformatics/cuttingedge biotechnology  
+
+#### Hobbies:
+Skiing  
+Table tennis
+PC building
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yzhu49@ncsu.edu](mailto:email@domain.com)  
+[yinzhou.zhu@duke.edu](mailto:email@domain.com)
