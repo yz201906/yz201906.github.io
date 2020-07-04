@@ -40,7 +40,14 @@ For the purpose of this project, I will just pick random forests model in additi
 I them used `rmarkdown::render()` function together with `map()` function to automate the application of the two models to all 7 days of data.  
 
 ## Conclusion
-From the output we can see that none of the models are performing particularly well, where RMSEs are very large. When looking at the predictions on test data and compare with the actual share numbers in test data, we can see that the predictions are not very accurate.  This might be indicative of further tuning is neccessary.  
+From the output we can see that none of the models are performing particularly well, where RMSEs are very large. When looking at the predictions on test data and compare with the actual share numbers in test data, we can see that the predictions are not very accurate.  This might be indicative of further tuning is neccessary. The extreme (but real) values of the data can also affect the model performance.  
+
+## Reflections
+* There are a few things that I could have done differently if time allows:  
+  * Spend more time manual tuning the model training step  
+  * Compare different but appropriate performance evaluation metrics (e.g. median error, average absolute error)  
+* The most difficult part is thinking the whole pipeline through before start modeling, especially on how to explore the data as such it would provide insights on how to model it.  
+* The take-away I got was that, there is no generic data model where I can just take and use. For a model to actually have predictive power, careful tuning is required. It seems to me that every model is different.  
 
 ## References
 **1.** The data set used can be found [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
