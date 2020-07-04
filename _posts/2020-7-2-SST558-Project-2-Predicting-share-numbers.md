@@ -3,7 +3,7 @@ layout: post
 title: Predicting share numbers using online new popularity data
 ---
 ## The data
-The goal is to use online news popularity data set<sup>6</sup>, where various features of news published by masheable are collected, to build appropriate model and evaluate performance on predicting how often a piece of news is shared. I will apply 1 linear regression model and 1 non-linear regression model to the data set.    
+The goal is to use online news popularity data set <sup>1</sup>, where various features of news published by masheable are collected, to build appropriate model and evaluate performance on predicting how often a piece of news is shared. I will apply 1 linear regression model and 1 non-linear regression model to the data set.    
 
 ## Initial data exploration
 The entire content can be found [here.](https://github.com/yz201906/SST558_project2)
