@@ -21,4 +21,4 @@ I have opted to further subset the data even more considering performance of the
 * One of two models: multiple linear regression and bagged tree can be selected for modeling. Modeling parameters are available for bagged tree.  
 * For PCA, data is subsetted directly from the full 2000-2010 data (also 50000 random rows selected). 
 
-More details and the app itself can be found [**here**](https://github.com/yz201906/SST558_final_project) at GitHub.
+More details and the app itself can be found [**here**](https://yz201906.github.io/SST558_final_project/) at GitHub.
