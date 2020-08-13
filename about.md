@@ -20,5 +20,4 @@ PC building
 
 ### Contact me
 
-[yzhu49@ncsu.edu](mailto:email@domain.com)  
 [yinzhou.zhu@duke.edu](mailto:email@domain.com)
