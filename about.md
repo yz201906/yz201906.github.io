@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a postdoc researcher at Duke University currently pursuing Data Science foundations certificate through NCSU. 
+Currently a scientist at 10X genomics. 
+I was a postdoc researcher at Duke University and a Data Science foundations certificate student at NCSU. 
 
 ### More Information
 
@@ -20,4 +21,4 @@ PC building
 
 ### Contact me
 
-[yinzhou.zhu@duke.edu](mailto:email@domain.com)
+[yinzhou1989@gmail.com](mailto:email@domain.com)
